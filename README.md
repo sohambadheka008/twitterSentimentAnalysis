@@ -4,4 +4,4 @@ Here is the tutorial from where I got to learn how to do it.
 
 http://www.ibm.com/developerworks/library/wa-nodejs-app/  
 
-Fork and lets make it as efficient as possible.
+Fork it and make it as efficient as possible.
